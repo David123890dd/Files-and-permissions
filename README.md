@@ -1,5 +1,15 @@
 # Files-and-permissions
 
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Network Security Group(NSG)
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10</b> (21H2)
+
 <h3>To do this section, you need a domain controller and a client. go to the domain controller. open files and create several new files like this:</h3>
 
 ![image](https://github.com/David123890dd/Files-and-permissions/assets/138183500/1e21f40d-7172-4aa9-8c0e-f7578343184f)
